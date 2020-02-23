@@ -1,7 +1,1 @@
-(function(factory) {
-  typeof define === "function" && define.amd ? define(factory) : factory();
-})(function() {
-  "use strict";
-
-  console.log("hello");
-});
+!function(e){"function"==typeof define&&define.amd?define(e):e()}((function(){"use strict";console.log("hello")}));
